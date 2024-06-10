@@ -1,0 +1,54 @@
+body{
+   background-color: #F7ECDE;
+}
+
+.row{
+    border-top: dotted;
+    border-bottom: dotted;
+}
+
+input{
+    bottom: 0;
+}
+
+
+/* // console.log(poductContainer[i]);
+//     newSite+=`
+//     <tr>
+//       <td>${1}</td>
+//       <td>${siteName.value}</td>              
+//       <td>
+//         <button class="btn btn-visit" data-index="${siteName}">
+//           <i class="fa-solid fa-eye pe-2"></i>Visit
+//         </button>
+//       </td>
+//       <td>
+//         <button class="btn btn-delete pe-2" data-index="${siteUrl}">
+//           <i class="fa-solid fa-trash-can"></i>
+//           Delete
+//         </button>
+//       </td>
+//   </tr>
+//   `; */
+
+
+/* line 54 */
+/* // console.log(poductContainer[i]);
+// newSite+=siteName.value+siteUrl.value
+//     newSite+=`
+//     <tr>
+//       <td>${1}</td>
+//       <td>${siteName.value}</td>              
+//   <td>
+//     <button class="btn btn-visit" data-index="${siteUrl.value}">
+//       <i class="fa-solid fa-eye pe-2"></i>Visit
+//     </button>
+//   </td>
+//   <td>
+//     <button class="btn btn-delete pe-2" data-index="${siteUrl}">
+//       <i class="fa-solid fa-trash-can"></i>
+//       Delete
+//     </button>
+//   </td>
+//   </tr>
+//   `; */
